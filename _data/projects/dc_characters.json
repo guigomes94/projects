@@ -1,0 +1,17 @@
+{
+    "title": "DC CHARACTERS",
+    "description": "Este site tem como objetivo conhecer os personagens dc comics.",
+    "preview": "dc_characters.png",
+    "demo": "https://dccharacters.herokuapp.com/",
+    "repository": "https://github.com/guigomes94/dc-characters/",
+    "course": "cstsi",
+    "session": "2019.1",
+    "subject": "ls",
+    "campus": "ifpb-jp",
+    "topics": [
+      "ls"
+    ],
+    "owners": [
+      20182370007
+    ]
+  } 
